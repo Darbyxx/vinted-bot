@@ -1,5 +1,5 @@
 {
-    "token": "process.env.TOKEN",
+    "token": "confing.env.TOKEN",
     "adminIDs": ["269548733606264834"],
     "guildID": "954804542267080705"
 }
